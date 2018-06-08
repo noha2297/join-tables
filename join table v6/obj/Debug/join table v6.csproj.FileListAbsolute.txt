@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\join table v6\join table v6\bin\Debug\join table v6.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\join table v6\join table v6\bin\Debug\join table v6.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\join table v6\join table v6\bin\Debug\join table v6.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\join table v6\join table v6\obj\Debug\join table v6.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\join table v6\join table v6\obj\Debug\join_table_v6.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\join table v6\join table v6\obj\Debug\join_table_v6.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\join table v6\join table v6\obj\Debug\join table v6.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\join table v6\join table v6\obj\Debug\join table v6.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\join table v6\join table v6\obj\Debug\join table v6.pdb

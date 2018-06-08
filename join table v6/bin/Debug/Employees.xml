@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee>
+    <id>1</id>
+    <Name>mona</Name>
+    <Gender>Female</Gender>
+    <Salary>2000</Salary>
+    <DepartmentId>1</DepartmentId>
+  </Employee>
+ <Employee>
+    <id>2</id>
+    <Name>Ahmed</Name>
+    <Gender>Male</Gender>
+    <Salary>1000</Salary>
+    <DepartmentId>1</DepartmentId>
+  </Employee>
+    <Employee>
+    <id>3</id>
+    <Name>noura</Name>
+    <Gender>Female</Gender>
+    <Salary>1500</Salary>
+    <DepartmentId>2</DepartmentId>
+  </Employee>
+<Employee>
+    <id>4</id>
+    <Name>mohamed</Name>
+    <Gender>Male</Gender>
+    <Salary>1500</Salary>
+    <DepartmentId>2</DepartmentId>
+  </Employee>
+</Employees>

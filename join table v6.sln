@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "join table v6", "join table v6\join table v6.csproj", "{4F07DD7C-E481-4A5D-8A54-E48FFBCC20AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F07DD7C-E481-4A5D-8A54-E48FFBCC20AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F07DD7C-E481-4A5D-8A54-E48FFBCC20AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F07DD7C-E481-4A5D-8A54-E48FFBCC20AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F07DD7C-E481-4A5D-8A54-E48FFBCC20AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
